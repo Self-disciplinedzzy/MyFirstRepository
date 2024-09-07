@@ -27,3 +27,7 @@ javadoc 命令 `javadoc -d temp -author -version JavadocComment.java`
 I'm come back
 
 开始更新自己的neovim配置文件
+
+### 2024-09-04
+
+电脑上链接github仓库
