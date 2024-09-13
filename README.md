@@ -28,7 +28,13 @@ I'm come back
 
 开始更新自己的neovim配置文件
 
+<<<<<<< HEAD
 ### 2024-09-04
 
 电脑上链接github仓库
 可以直接在电脑上push代码了
+=======
+### 2024-09-13
+
+平板玩neovim(lazy.nvim)
+>>>>>>> f4ca323 (update configure)
