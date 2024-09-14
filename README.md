@@ -33,8 +33,13 @@ I'm come back
 
 电脑上链接github仓库
 可以直接在电脑上push代码了
-=======
+
 ### 2024-09-13
 
 平板玩neovim(lazy.nvim)
 >>>>>>> f4ca323 (update configure)
+
+### 2024-09-15
+
+continue git push / rebase / only-ff
+搞了打半气
