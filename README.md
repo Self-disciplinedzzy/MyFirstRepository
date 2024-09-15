@@ -49,3 +49,11 @@ continue git push / rebase / only-ff
 under computer
 学会了几个git指令
 更新本地仓库
+`git fetch`
+`git merge origin/main`
+update local repository
+
+### 2024-09-15
+
+pull to the tablet again.
+
