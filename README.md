@@ -43,3 +43,9 @@ I'm come back
 
 continue git push / rebase / only-ff
 搞了打半气
+
+### 2024-09-15
+
+under computer
+学会了几个git指令
+更新本地仓库
