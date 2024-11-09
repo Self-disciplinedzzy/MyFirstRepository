@@ -57,4 +57,5 @@ update local repository
 
 pull to the tablet again.
 也是第一次用平板搭建了一个虚拟服务器，手机和板子都能访问，以后学前段又有帮助了
+`ifconfig` -> ip , (8080)
 
