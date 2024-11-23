@@ -62,4 +62,4 @@ pull to the tablet again.
 ### 2024-11-23
 `http.server `and html`<img><h1><h2><p><em><title><meta>`等等，完成了第二部分的第四章节，创造了一个简单的网页
 还通过这些命令在手机浏览器上debug网页的变化，方便一节,也用python内置的http访问模块可以查看get-state
-[click][http://192.168.1.13:8000/index.html]
+[click](http://192.168.1.13:8000/index.html)
