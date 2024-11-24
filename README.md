@@ -65,4 +65,4 @@ pull to the tablet again.
 [click](http://192.168.1.13:8000/index.html)
 
 ### 2024-11-24
-update LazyVim
+update *LazyVim*
