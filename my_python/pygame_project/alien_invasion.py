@@ -2,6 +2,7 @@ import sys
 
 import pygame
 
+
 class AlienInvasion:
     def __init__(self):
         pygame.init()
@@ -16,8 +17,8 @@ class AlienInvasion:
                     sys.exit()
 
             pygame.display.flip()
+
+
 if __name__ == '__main__':
     ai = AlienInvasion()
     ai.run_game()
-
-
