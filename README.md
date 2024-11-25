@@ -67,3 +67,6 @@ pull to the tablet again.
 ### 2024-11-24
 update *LazyVim*
 2024-11-25
+
+### 2024-11-26 01:33
+完成了ranger图标配置,配置每天整.代码没写过了
