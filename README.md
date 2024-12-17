@@ -73,3 +73,8 @@ update *LazyVim*
 
 ### 2024-12-07 
 [d051465a-a2ac-4ced-a723-f827ee721b52](http://www.github.com/) 
+
+### 2024-12-17
+**Pluging**
+[Trans.nvim](https://github.com/JuanZoran/Trans.nvim)
+
