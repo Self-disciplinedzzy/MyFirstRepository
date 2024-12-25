@@ -78,3 +78,4 @@ update *LazyVim*
 **Pluging**
 [Trans.nvim](https://github.com/JuanZoran/Trans.nvim)
 
+wohaihsi diciyi yong wode meijaishi mad68xiedaima 
