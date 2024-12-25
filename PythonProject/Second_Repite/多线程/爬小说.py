@@ -86,7 +86,7 @@ async def GetUrl(url):
             pps = htmls.xpath('//div[@class="p"]/p/text()')[:-4]
             name = url.rsplit("/")[-1]
             # print(name)
-            async with aiofiles.open("asdf/"+name, mode="w") as f:
+            async with aiofiles.open("asdf/" + name, mode="w") as f:
                 # await f.write(pps)
                 for p in pps:
                     await f.write(p)
@@ -102,5 +102,5 @@ async def main():
     # print(tasks)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     asyncio.run(main())

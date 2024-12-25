@@ -3,7 +3,7 @@ import requests
 
 url = "https://www.bizhiku.net/wallpaper/car/"
 resp = requests.get(url)
-resp.encoding = 'utf-8'
+resp.encoding = "utf-8"
 
 resp_text = resp.text
 # print(resp.text)
@@ -16,6 +16,6 @@ imgs_url = page.find_all("div", class_="bd")
 
 
 for img in imgs_url:
-    print(img.)
+    print(img.text)
 
 resp.close()
