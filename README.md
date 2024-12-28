@@ -78,4 +78,5 @@ update *LazyVim*
 **Pluging**
 [Trans.nvim](https://github.com/JuanZoran/Trans.nvim)
 
-wohaihsi diciyi yong wode meijaishi mad68xiedaima 
+### 28/12/2024 
+clearning nvim_config
