@@ -83,3 +83,6 @@ clearning nvim_config
 
 ### 30/12/2024
 今天也是把我的github仓库清理了一下，把重复的文件删了。
+
+### 2025-05-18
+Hi username! You've successfully authenticated, but Github does not provide shell access.
