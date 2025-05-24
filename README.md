@@ -108,3 +108,5 @@ git pull 可以直接同步我的GitHub repo学到了。以后我就可以在这
 
 git pull发现有问题，就可以跟这提示去解决，一般的话，在原仓库里只能是绿色状态，才能没得问题的同步仓库。
 也可以去GitHub的软件里去写readme。
+
+如果我的文件在本地更改了，但是还没有`git add .`我也可以直接`git checkout -- <file>`，如果是已经`git add .`了的我也可以`git reset HEAD <file>`，撤回。
