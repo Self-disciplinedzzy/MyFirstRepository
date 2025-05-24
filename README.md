@@ -29,6 +29,7 @@ I'm come back
 开始更新自己的neovim配置文件
 
 <<<<<<< HEAD
+
 ### 2024-09-04
 
 电脑上链接github仓库
@@ -60,32 +61,43 @@ pull to the tablet again.
 `ifconfig` -> ip , (8080)
 
 ### 2024-11-23
-`http.server `and html`<img><h1><h2><p><em><title><meta>`等等，完成了第二部分的第四章节，创造了一个简单的网页
+
+`http.server`and html`<img><h1><h2><p><em><title><meta>`等等，完成了第二部分的第四章节，创造了一个简单的网页
 还通过这些命令在手机浏览器上debug网页的变化，方便一节,也用python内置的http访问模块可以查看get-state
 [click](http://192.168.1.13:8000/index.html)
 
 ### 2024-11-24
+
 update *LazyVim*
 2024-11-25
 
 ### 2024-11-26 01:33
+
 完成了ranger图标配置,配置每天整.代码没写过了
 
-### 2024-12-07 
-[d051465a-a2ac-4ced-a723-f827ee721b52](http://www.github.com/) 
+### 2024-12-07
+
+[d051465a-a2ac-4ced-a723-f827ee721b52](http://www.github.com/)
 
 ### 2024-12-17
+
 **Pluging**
 [Trans.nvim](https://github.com/JuanZoran/Trans.nvim)
 
-### 28/12/2024 
+### 28/12/2024
+
 clearning nvim_config
 
 ### 30/12/2024
+
 今天也是把我的github仓库清理了一下，把重复的文件删了。
 
 ### 2025-05-18
+
 Hi username! You've successfully authenticated, but Github does not provide shell access.
 
 ### 2025-05-24
+
 我没有办法把这个readme软链接到我的termux目录里，没有系统权限，所以我以后可能要直接在这里编写我的readme文件了。
+
+### 2025-05-24 22:16
