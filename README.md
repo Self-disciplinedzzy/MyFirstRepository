@@ -105,3 +105,6 @@ Hi username! You've successfully authenticated, but Github does not provide shel
 ヾﾉ≧∀≦)o，我直接把GitHub的仓库git到这里了，add-safe一下就行了，保存了我就可以在去termux里面去提交。
 
 git pull 可以直接同步我的GitHub repo学到了。以后我就可以在这里编辑我的readme文件，那边就可以同步，在改我的代码了。
+
+git pull发现有问题，就可以跟这提示去解决，一般的话，在原仓库里只能是绿色状态，才能没得问题的同步仓库。
+也可以去GitHub的软件里去写readme。
