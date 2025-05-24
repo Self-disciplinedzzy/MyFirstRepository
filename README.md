@@ -86,3 +86,6 @@ clearning nvim_config
 
 ### 2025-05-18
 Hi username! You've successfully authenticated, but Github does not provide shell access.
+
+### 2025-05-24
+我没有办法把这个readme软链接到我的termux目录里，没有系统权限，所以我以后可能要直接在这里编写我的readme文件了。
