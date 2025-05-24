@@ -101,3 +101,5 @@ Hi username! You've successfully authenticated, but Github does not provide shel
 我没有办法把这个readme软链接到我的termux目录里，没有系统权限，所以我以后可能要直接在这里编写我的readme文件了。
 
 ### 2025-05-24 22:16
+
+ヾﾉ≧∀≦)o，我直接把GitHub的仓库git到这里了，add-safe一下就行了，保存了我就可以在去termux里面去提交。
